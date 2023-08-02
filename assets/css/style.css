@@ -73,8 +73,9 @@ margin: 0;
 }
 
 .article-short {
+  box-sizing: border-box;
   display: inline-block;
-  width: 30%;
+  width: 33%;
   text-align: left;
 }
 
